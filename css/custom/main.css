@@ -724,7 +724,7 @@ textarea.form-control {
 }
 
 .navbar-logo img {
-    width: 200px
+    width: 150px
 }
 
 .navbar-toggle {
@@ -955,7 +955,7 @@ textarea.form-control {
 }
 
 .footer-logo a img {
-    width: 360px
+    width: 150px; 
 }
 
 .footer-icon {
@@ -1014,7 +1014,7 @@ textarea.form-control {
 
 @media (max-width: 767px) {
     .footer-logo a img {
-        width: 145px
+        width: 100px
     }
 
     .footer-icon {
