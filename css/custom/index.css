@@ -1306,7 +1306,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 120px 0px
+    padding: 100px 0px
 }
 
 .circle-shape {
@@ -1359,9 +1359,9 @@
 .star-shape {
     position: absolute;
     right: 0px;
-    bottom: -135px;
+    bottom: -100px;
     width: auto;
-    height: 120px;
+    height: 100px;
     opacity: 0.5;
     -webkit-animation: miron 4s linear infinite;
     animation: miron 4s linear infinite
